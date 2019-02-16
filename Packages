@@ -11,3 +11,17 @@ Section: Tweaks
 Description: SpringPlus is a statusbar tweak where you can hide the some statusbar icons
 Author: ItsEdward edwardkuizenga@gmail.com
 Name: SpringPlus
+
+Package: com.ItsEdward.lotus
+Version: 1.0.
+Architecture: iphoneos-arm
+Maintainer: ItsEdward <edwardkuizenga@gmail.com>
+Filename: com.macciti.lotus_1.0_iphoneos-arm.deb
+Size: 6861500
+MD5sum: 446F37A1BC11E8293B5E85A2D574DF7E
+SHA1: 4EA8354AA42F97723CCA4314E4AA73362F555E7B
+SHA256: A399E164A77691B05E478BEA94080B1D48D63BF4695D47E3DD415310401788C5
+Section: Themes
+Description: A gradient theme taht bursts vibrantly yet subtle with its colors.
+Author: edwardkuizenga@gmail.com
+Name: Lotus
