@@ -1,4 +1,4 @@
-Package: com.ItsEdward.springplus
+Package: com.rishanan.springplus_1.3-2_iphoneos-arm
 Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: ItsEdward <edwardkuizenga@gmail.com>
@@ -12,7 +12,7 @@ Description: SpringPlus is a statusbar tweak where you can hide the some statusb
 Author: ItsEdward edwardkuizenga@gmail.com
 Name: SpringPlus
 
-Package: com.ItsEdward.lotus
+Package: com.macciti.lotus_1.0_iphoneos-arm
 Version: 1.0.
 Architecture: iphoneos-arm
 Maintainer: ItsEdward <edwardkuizenga@gmail.com>
